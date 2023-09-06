@@ -1,0 +1,26 @@
+[{
+   "weather":"clearday",
+    "png":"clear.png",
+    "def":"Total cloud cover less than 20%"
+
+},{
+    "weather":"cloudyday",
+    "png":"cloudy.png",
+    "def":"Total cloud cover between 60%-80%"
+},
+{
+    "weather":"mcloudyday",
+    "png":"mcloudy.png",
+    "def":"Total cloud cover over over 80%"
+},
+{
+    "weather":"pcloudyday",
+    "png":"pcloudy.png",
+    "def":"Total cloud cover between 20%-60%"
+},
+{
+    "weather":"lightrainday",
+    "png":"lightrain.png",
+    "def":"Precipitation rate less than 4mm/hr with cloud cover more than 80%"
+}
+]

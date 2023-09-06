@@ -1,0 +1,71 @@
+ [{"ville":"Bafoussam,Cameroun",
+   "lat":"37.3824",
+   "long":"-5.9761"
+   },
+{"ville":"Paris,France",
+  "lat":"48.8534",
+  "long":"2.3488"},
+{"ville":"Seville,Espagne",
+   "lat":"37.3824",
+    "long":"-5.9761"},
+{"ville":"Amsterdam,Pays-Bas",
+    "lat":"5.4737",
+    "long":"10.4179"},
+{"ville":"Ankara,Turquie",
+"lat":"39.933","long":"32.859"}, 
+{"ville":"Cologne",
+"lat":"50.937","long":"6.96"},
+{"ville":"Barcelone,Espagne",
+  "lat":"41.3888",
+  "long":"2.159"
+},{"ville":"New York,USA","lat":"40.712","long":"-74.00"},
+{"ville":"Los Angeles,USA","lat":"34.0033","long":"-118.48"},
+{"ville":"Chicago,USA","lat":"41.881","long":"-87.623"},
+{"ville":"Moscou,Russie","lat":"55.757","long":"37.619"},
+{"ville":"Tokyo,Japon","lat":"35.6894","long":" 139.692"},
+{"ville":"Berlin,Allemagne", "lat":"52.520"  ,"long":"13.405"},
+{"ville":"Pretoria,South Africa", "lat":"-25.746"  ,"long":"28.188"},
+{"ville":"Bilbao,Espagne", "lat":"52.520"  ,"long":"13.405" },
+{"ville":"Bern,Suisse", "lat":"46.948"  ,"long":"7.447" },
+{"ville":"Bucarest,Roumanie","lat":"47.497"  ,"long":"19.040"},
+{"ville":"Budapest,Hongrie","lat":"59.329"  ,"long":"18.068"},
+{"ville":"Cardiff,Pays de Galle","lat":"51.483"  ,"long":"-3.168"},
+{"ville":"Copenague,Danemarck","lat":"55.676"  ,"long":"12.568"},
+{"ville":"Cork,Irlande","lat":"55.676"  ,"long":"12.568"},
+{"ville":"Dublin,Ecosse","lat":"51.898"  ,"long":"-8.475"},
+{"ville":"Edinburgh,Ecosse","lat":"55.953"  ,"long":"-3.188"},
+{"ville":"Funchal,Portugal"},
+{"ville":"Gibraltar,Gilbraltar","lat":"36.140","long":"-5.353"},
+{"ville":"Hambourg,Allemagne","lat":"53.548","long":"9.987"},
+{"ville":"Madrid,Espagne","lat":"40.416","long":"-3.703"},
+{"ville":"Majorque,Espagne","lat":"39.695","long":"3.017"},
+{"ville":"Marseille,France","lat":"43.296","long":"5.369"},
+{"ville":"Maspalomas,Spain","lat":"27.760","long":"-15.586"},
+{"ville":"Milan,Italy","lat":"45.464","long":"9.190"},
+{"ville":"Munich,Germany","lat":"48.135","long":"11.582"},
+{"ville":"Naples,Italy","lat":"40.851","long":"14.268"},
+{"ville":"Oslo,Norway","lat":"59.913","long":"10.752"},
+{"ville":"Reykjavi­k,Iceland","lat":"64.146","long":"-21.942"},
+{"ville":"Riga,Latvia","lat":"56.879","long":"24.603"},
+{"ville":"Santa Cruz das Flores,Portugual","lat":"39.453","long":"-31.127"},
+{"ville":"Santa Cruz de Tenerife,Spain","lat":"28.463","long":"-16.251"},
+{"ville":"Skye,Scotland","lat":"57.273","long":"-6.215"},
+{"ville":"Sofia,Bulgaria","lat":"42.697","long":"23.321"},
+{"ville":"Skye,Scotland","lat":"57.273","long":"-6.215"},
+{"ville":"Stockholm,Sweden","lat":"59.329","long":"18.068"},
+{"ville":"Tallinn,Estonia","lat":"59.437","long":"24.753"},
+{"ville":"Vienna,Austria","lat":"18.208","long":"16.373"},
+{"ville":"York,England","lat":"53.961","long":"-1.07"}
+
+ ]
+
+ 
+
+
+
+
+
+
+
+
+
